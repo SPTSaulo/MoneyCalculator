@@ -1,10 +1,5 @@
 package moneycalculator.view;
 
-/**
- *
- * @author Néstor
- */
-
 import moneycalculator.model.Currency;
 
 import javax.swing.*;
