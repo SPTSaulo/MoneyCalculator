@@ -1,9 +1,5 @@
 package moneycalculator.controller;
 
-/**
- *
- * @author Néstor
- */
 
 import com.google.gson.Gson;
 import moneycalculator.model.Currency;

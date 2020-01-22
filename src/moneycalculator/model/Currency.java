@@ -1,9 +1,6 @@
 package moneycalculator.model;
 
-/**
- *
- * @author Néstor
- */
+
 
 public class Currency {
 

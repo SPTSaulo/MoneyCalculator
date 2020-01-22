@@ -1,9 +1,5 @@
 package moneycalculator.model;
 
-/**
- *
- * @author Néstor
- */
 
 import java.util.ArrayList;
 import java.util.List;

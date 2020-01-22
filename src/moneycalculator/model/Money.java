@@ -1,10 +1,5 @@
 package moneycalculator.model;
 
-/**
- *
- * @author Néstor
- */
-
 public class Money {
 
     private final double amount;

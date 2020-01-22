@@ -1,9 +1,5 @@
 package moneycalculator.model;
 
-/**
- *
- * @author Néstor
- */
 
 import java.util.Date;
 import java.util.Map;

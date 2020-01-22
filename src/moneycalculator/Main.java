@@ -1,9 +1,5 @@
 package moneycalculator;
 
-/**
- *
- * @author Néstor
- */
 
 import moneycalculator.controller.Controller;
 import moneycalculator.view.MoneyCalculatorView;
